@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "深海のリトルクライ",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-01-02T10:08:50.256997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Cry of The Abyss (ft. Asako Toki) [深海のリトルクライ (ft. 土岐麻子)]",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/01_Little_Cry_of_The_Abyss_(ft._Asako_Toki)_[深海のリトルクライ_(ft._土岐麻子)]_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "深海のリトルクライ",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/02_深海のリトルクライ_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "深海のリトルクライ",
+      "artist": "sasakure.UK feat. 土岐麻子",
+      "has_synced": false,
+      "path": "select/03_深海のリトルクライ_sasakure.UK_feat._土岐麻子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "深海のリトルクライ (feat. Kuroneko)",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/04_深海のリトルクライ_(feat._Kuroneko)_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "深海のリトルクライ",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/05_深海のリトルクライ_96猫.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "深海のリトルクライ",
+      "artist": "sasakure.UK feat. Kuroneko",
+      "has_synced": true,
+      "path": "select/06_深海のリトルクライ_sasakure.UK_feat._Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "深海のリトルクライ",
+      "artist": "sasakure.UK feat. 96猫",
+      "has_synced": true,
+      "path": "select/07_深海のリトルクライ_sasakure.UK_feat._96猫.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "深海のリトルクライ",
+      "artist": "藍月なくる",
+      "has_synced": true,
+      "path": "select/08_深海のリトルクライ_藍月なくる.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "深海のリトルクライ (feat. 土岐麻子)",
+      "artist": "sasakure.UK, 土岐麻子",
+      "has_synced": true,
+      "path": "select/09_深海のリトルクライ_(feat._土岐麻子)_sasakure.UK,_土岐麻子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深海のリトルクライ",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_深海のリトルクライ_藍月なくる.txt"
+    }
+  ]
+}
